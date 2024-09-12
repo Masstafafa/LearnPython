@@ -28,6 +28,7 @@ prixHT = 120.45
 age_personne_2 = "25"
 continuer_partie = True / False
 
+
 texte = "L'âge de la personne est {} et le prix HT est de {} euros."
 print(texte.format(age_personne, prixHT))
 #pareil que

@@ -36,4 +36,4 @@ niveau_personnage = niveau_personnage +1
 #idemn à
 niveau_personnage += niveau_personnage
 
-Print("Niveau du perso", niveau_personnage)
+print("Niveau du perso", niveau_personnage)
